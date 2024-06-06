@@ -55,6 +55,17 @@ How to Run the Project
 
 To run this project locally, follow these steps:
 
-Clone the repository:
-git clone https://github.com/CAUCORASEKO/portfolio-project.git
+1.- Clone the repository: git clone https://github.com/CAUCORASEKO/My_Portfolio_Project.git
+
+2.- Navigate to the project directory: cd My_portfolio_project
+
+3.- Install dependencies: npm install
+
+4.- Run the development server: npm run dev
+
+5.- Open your browser and go to http://localhost:3000 to view the project.
+
+Conclusion :
+
+This portfolio project is a testament to my skills and dedication as an aspiring IT professional. I invite you to explore the project, review the code, and provide any feedback. Thank you for visiting!
 
