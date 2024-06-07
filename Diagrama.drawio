@@ -1,9 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T13:02:50.648Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.14" etag="YySpm8OMXBTFHY9ncqKc" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T02:42:24.527Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="8SIIqmpF8BpplBtloSbw" version="24.5.1" type="github">
   <diagram name="Página-1" id="p936Z_GSKwabgAD0SgL5">
-    <mxGraphModel>
+    <mxGraphModel dx="1143" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eTxgFcsLmbANutKCiA7s-16" value="My_Portfolio_Project" style="swimlane;startSize=20;horizontal=1;containerType=tree;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="140" width="460" height="540" as="geometry">
+            <mxRectangle x="220" y="10" width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTxgFcsLmbANutKCiA7s-22" value="public" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eTxgFcsLmbANutKCiA7s-16">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTxgFcsLmbANutKCiA7s-23" value="src" style="swimlane;startSize=20;horizontal=1;containerType=tree;" vertex="1" parent="eTxgFcsLmbANutKCiA7s-16">
+          <mxGeometry x="150" y="110" width="260" height="250" as="geometry">
+            <mxRectangle x="190" y="40" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTxgFcsLmbANutKCiA7s-29" value="components" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eTxgFcsLmbANutKCiA7s-23">
+          <mxGeometry x="95" y="40" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTxgFcsLmbANutKCiA7s-30" value="routes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eTxgFcsLmbANutKCiA7s-23">
+          <mxGeometry x="95" y="80" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTxgFcsLmbANutKCiA7s-31" value="styles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eTxgFcsLmbANutKCiA7s-23">
+          <mxGeometry x="95" y="120" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTxgFcsLmbANutKCiA7s-32" value="App.Svelte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eTxgFcsLmbANutKCiA7s-23">
+          <mxGeometry x="95" y="160" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTxgFcsLmbANutKCiA7s-33" value="main.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eTxgFcsLmbANutKCiA7s-23">
+          <mxGeometry x="95" y="200" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTxgFcsLmbANutKCiA7s-34" value="static" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eTxgFcsLmbANutKCiA7s-16">
+          <mxGeometry x="30" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
