@@ -69,3 +69,74 @@ Conclusion :
 
 This portfolio project is a testament to my skills and dedication as an aspiring IT professional. I invite you to explore the project, review the code, and provide any feedback. Thank you for visiting!
 
+-----------------
+*** SUOMEKSI ***
+-----------------
+
+** Johdanto **
+
+Tervetuloa portfolio-projektiini! Tämä on henkilökohtainen projekti, joka on kehitetty esittelemään taitojani ja asiantuntemustani tieto- ja viestintätekniikassa. Nimeni on Claudio Valenzuela, ja GitHubissa minut tunnetaan nimellä CAUCO. Tämä projekti osoittaa osaamiseni modernien web-kehitysteknologioiden, kuten Svelten, Tailwind CSS
+ja muiden työkalujen käytössä.
+
+** Projektin yleiskatsaus **
+
+Tämä portfolio-projekti on verkkosovellus, joka on rakennettu käyttäen Sveltea ja Tailwind CSS:ää. Sovellus esittelee useita osioita, mukaan lukien johdannon, projektieni esittelyn ja tietoa minusta. Jokainen osio on huolellisesti suunniteltu esittelemään taitoni, projektini ja henkilökohtaiset tietoni selkeällä, responsiivisella ja visuaalisesti miellyttävällä tavalla.
+
+** Ominaisuudet **
+
+    Responsiivinen suunnittelu: Layout on täysin responsiivinen, mikä varmistaa optimaalisen katselukokemuksen eri laitteilla ja näytöillä.
+    Modernit teknologiat: Käyttää Svelteä tehokkaiden ja reaktiivisten käyttöliittymien luomiseen sekä Tailwind CSS:ää tyylien räätälöintiin ja virtaviivaistamiseen.
+    Interaktiiviset elementit: Sisältää dynaamisia elementtejä, kuten hover-efektejä, scroll-animaatioita ja interaktiivisia komponentteja käyttäjien sitouttamisen parantamiseksi.
+
+** Osiot **
+
+Johdanto
+
+Johdanto-osio tarjoaa lyhyen yleiskatsauksen siitä, kuka olen ja mitä teen. Se sisältää tervetuloviestin ja kehotuksen tutustua projekteihini ja oppia lisää minusta.
+
+Projektit
+
+Projektit-osio esittelee joitakin keskeisiä projekteja, joihin olen työskennellyt. Jokainen projekti on kuvattu seuraavasti:
+
+    Small James Store: Kauppapaikka, joka on luotu Next.js
+    , Commerce.js
+    , Stripen ja Node.js
+    avulla. Tämä projekti osoittaa kykyni integroida verkkokauppatoimintoja ja käsitellä tapahtumia.
+    Ultimate To-Do's: Täydellinen full-stack sovellus, joka käyttää Next.js:ää, Node.js:ää Expressin kanssa ja Firebase Firestorea CRUD-toimintoihin. Tämä projekti osoittaa taitoni kehittää ominaisuusrikkaita verkkosovelluksia käyttäjäautentikoinnilla ja tiedon pysyvyydellä.
+    Pokedex: Verkkosovellus, joka on rakennettu SvelteKitillä ja Tailwind CSS
+    ä, isännöity Netlifyssa, kuluttaa ja välimuistittaa tietoja Pokémon API
+    näyttääkseen yksityiskohtaista tietoa Pokémoneista.
+
+Tietoa Minusta
+
+Tietoa minusta -osio tarjoaa syvällisempää tietoa minusta, mukaan lukien:
+
+    Itseoppinut kehittäjä: Korostaa matkaani itseoppineena kehittäjänä.
+    Tuotesuunnittelu ja UX-fani: Esittelee kiinnostukseni tuotesuunnitteluun ja käyttäjäkokemukseen.
+    Erinomainen viestijä: Korostaa vahvoja viestintätaitojani.
+
+Taitojen vertailutaulukko
+
+Tässä osiossa on vertailutaulukko, jossa vertaan taitojani muihin ehdokkaisiin, korostaen omistautumistani, kriittistä ajatteluani, vuorovaikutustaitojani ja ohjelmointikykyäni.
+
+Alatunniste
+
+Alatunniste sisältää yhteystiedot ja linkit GitHub-profiiliini, rohkaisten kävijöitä ottamaan yhteyttä minuun.
+
+Projektin käynnistäminen
+
+Käynnistääksesi tämän projektin paikallisesti, noudata seuraavia ohjeita:
+
+1.- Kloonaa repository: git clone https://github.com/CAUCORASEKO/My_Portfolio_Project.git
+
+2.- Siirry projektin hakemistoon: cd My_portfolio_project
+
+3.- Asenna riippuvuudet: npm install
+
+4.- Käynnistä kehityspalvelin: npm run dev
+
+5.- Avaa selaimesi ja mene osoitteeseen http://localhost:3000 nähdäksesi projektin.
+
+Yhteenveto
+
+Tämä portfolio-projekti on osoitus taidoistani ja omistautumisestani tulevana IT-ammattilaisena. Kutsun sinut tutustumaan projektiin, tarkastelemaan koodia ja antamaan palautetta. Kiitos vierailusta!
