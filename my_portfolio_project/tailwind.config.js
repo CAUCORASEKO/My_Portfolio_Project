@@ -1,8 +1,12 @@
-/** @type {import('tailwindcss').Config} */
-export default {
-  content: ['./src/**/*.{html,js,svelte,ts}'],
+module.exports = {
+  // Sisältöpolut
+  content: [
+    './src/**/*.{html,js,svelte,ts}'
+  ],
+  // Teema-asetukset
   theme: {
-    extend: {}
+    extend: {},
   },
-  plugins: []
+  // Laajennukset
+  plugins: [],
 };

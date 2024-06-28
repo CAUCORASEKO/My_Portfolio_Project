@@ -1,10 +1,19 @@
-import adapter from '@sveltejs/adapter-auto';
-import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
-/** @type {import('@sveltejs/kit').Config} */
+import adapter from '@sveltejs/adapter-static';
+import preprocess from 'svelte-preprocess';
+
 const config = {
+  // Svelte-esikäsittely
+  preprocess: preprocess(),
+
   kit: {
-    adapter: adapter()
-  },
-  preprocess: vitePreprocess()
+    // SvelteKitin sovellusadapteri
+    adapter: adapter(),
+    // SvelteKitin kohde-elementti
+    target: '#svelte',
+    vite: {
+      // Vite-asetukset
+    }
+  }
 };
+
 export default config;
