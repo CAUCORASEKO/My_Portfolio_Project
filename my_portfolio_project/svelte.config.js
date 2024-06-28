@@ -8,12 +8,8 @@ const config = {
   kit: {
     // SvelteKitin sovellusadapteri
     adapter: adapter(),
-    // SvelteKitin kohde-elementti
-    target: '#svelte',
-    vite: {
-      // Vite-asetukset
-    }
   }
 };
 
 export default config;
+
