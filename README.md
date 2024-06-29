@@ -69,12 +69,13 @@ Conclusion :
 
 This portfolio project is a testament to my skills and dedication as an aspiring IT professional. I invite you to explore the project, review the code, and provide any feedback. Thank you for visiting!
 
-Essential links
+## Essential Links
 
-https://tailwindcss.com/docs/guides/sveltekit
-https://fonts.google.com/
-https://cdnjs.com/libraries/font-awesome
-https://fontawesome.com/icons
+1. [Tailwind CSS - SvelteKit Guide](https://tailwindcss.com/docs/guides/sveltekit)
+2. [Google Fonts](https://fonts.google.com/)
+3. [cdnjs - Font Awesome](https://cdnjs.com/libraries/font-awesome)
+4. [Font Awesome Icons](https://fontawesome.com/icons)
+
 
 -----------------
 *** SUOMEKSI ***
@@ -149,10 +150,10 @@ Yhteenveto
 
 Tämä portfolio-projekti on osoitus taidoistani ja omistautumisestani tulevana IT-ammattilaisena. Kutsun sinut tutustumaan projektiin, tarkastelemaan koodia ja antamaan palautetta. Kiitos vierailusta!
 
-Tärkeitä linkkejä
+## Tärkeitä linkkejä
 
-https://tailwindcss.com/docs/guides/sveltekit
-https://fonts.google.com/
-https://cdnjs.com/libraries/font-awesome
-https://fontawesome.com/icons
+1. [Tailwind CSS - SvelteKit Guide](https://tailwindcss.com/docs/guides/sveltekit)
+2. [Google Fonts](https://fonts.google.com/)
+3. [cdnjs - Font Awesome](https://cdnjs.com/libraries/font-awesome)
+4. [Font Awesome Icons](https://fontawesome.com/icons)
 
