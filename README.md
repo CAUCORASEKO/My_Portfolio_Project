@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
 
 1.- Clone the repository: git clone https://github.com/CAUCORASEKO/My_Portfolio_Project.git
 
-2.- Navigate to the project directory: cd My_portfolio_project
+2.- Navigate to the project directory: cd ~/Desktop/My_portfolio_project/my_portfolio_project
 
 3.- Install dependencies: npm install
 
@@ -68,6 +68,13 @@ To run this project locally, follow these steps:
 Conclusion :
 
 This portfolio project is a testament to my skills and dedication as an aspiring IT professional. I invite you to explore the project, review the code, and provide any feedback. Thank you for visiting!
+
+Essential links
+
+https://tailwindcss.com/docs/guides/sveltekit
+https://fonts.google.com/
+https://cdnjs.com/libraries/font-awesome
+https://fontawesome.com/icons
 
 -----------------
 *** SUOMEKSI ***
@@ -102,7 +109,8 @@ Projektit-osio esittelee joitakin keskeisiä projekteja, joihin olen työskennel
     , Commerce.js
     , Stripen ja Node.js
     avulla. Tämä projekti osoittaa kykyni integroida verkkokauppatoimintoja ja käsitellä tapahtumia.
-    Ultimate To-Do's: Täydellinen full-stack sovellus, joka käyttää Next.js:ää, Node.js:ää Expressin kanssa ja Firebase Firestorea CRUD-toimintoihin. Tämä projekti osoittaa taitoni kehittää ominaisuusrikkaita verkkosovelluksia käyttäjäautentikoinnilla ja tiedon pysyvyydellä.
+    Ultimate To-Do's: Täydellinen full-stack sovellus, joka käyttää Next.js:ää, Node.js:ää Expressin kanssa ja Firebase Firestorea CRUD-toimintoihin. Tämä projekti osoittaa taitoni kehittää ominaisuusrikkaita verkkosovelluksia 
+    käyttäjäautentikoinnilla ja tiedon pysyvyydellä.
     Pokedex: Verkkosovellus, joka on rakennettu SvelteKitillä ja Tailwind CSS
     ä, isännöity Netlifyssa, kuluttaa ja välimuistittaa tietoja Pokémon API
     näyttääkseen yksityiskohtaista tietoa Pokémoneista.
@@ -129,7 +137,7 @@ Käynnistääksesi tämän projektin paikallisesti, noudata seuraavia ohjeita:
 
 1.- Kloonaa repository: git clone https://github.com/CAUCORASEKO/My_Portfolio_Project.git
 
-2.- Siirry projektin hakemistoon: cd My_portfolio_project
+2.- Siirry projektin hakemistoon: cd ~/Desktop/My_portfolio_project/my_portfolio_project
 
 3.- Asenna riippuvuudet: npm install
 
@@ -140,3 +148,11 @@ Käynnistääksesi tämän projektin paikallisesti, noudata seuraavia ohjeita:
 Yhteenveto
 
 Tämä portfolio-projekti on osoitus taidoistani ja omistautumisestani tulevana IT-ammattilaisena. Kutsun sinut tutustumaan projektiin, tarkastelemaan koodia ja antamaan palautetta. Kiitos vierailusta!
+
+Tärkeitä linkkejä
+
+https://tailwindcss.com/docs/guides/sveltekit
+https://fonts.google.com/
+https://cdnjs.com/libraries/font-awesome
+https://fontawesome.com/icons
+
